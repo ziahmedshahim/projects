@@ -1,0 +1,36 @@
+Command: /home/zia/RP_related/barrel/./simv +verbose -l simulation.log
+Chronologic VCS simulator copyright 1991-2024
+Contains Synopsys proprietary information.
+Compiler version W-2024.09-SP2_Full64; Runtime version W-2024.09-SP2_Full64;  Jun 17 11:24 2025
+UVM_INFO /opt/synopsys/vcs/W-2024.09-SP2/etc/uvm-1.2/base/uvm_root.svh(402) @ 0: reporter [UVM/RELNOTES] 
+----------------------------------------------------------------
+UVM-1.2.Synopsys
+(C) 2007-2014 Mentor Graphics Corporation
+(C) 2007-2014 Cadence Design Systems, Inc.
+(C) 2006-2014 Synopsys, Inc.
+(C) 2011-2013 Cypress Semiconductor Corp.
+(C) 2013-2014 NVIDIA Corporation
+----------------------------------------------------------------
+
+  ***********       IMPORTANT RELEASE NOTES         ************
+
+  You are using a version of the UVM library that has been compiled
+  with `UVM_NO_DEPRECATED undefined.
+  See http://www.eda.org/svdb/view.php?id=3313 for more details.
+
+  You are using a version of the UVM library that has been compiled
+  with `UVM_OBJECT_DO_NOT_NEED_CONSTRUCTOR undefined.
+  See http://www.eda.org/svdb/view.php?id=3770 for more details.
+
+      (Specify +UVM_NO_RELNOTES to turn off this notice)
+
+                   0 << Starting the Simulation >>
+Input=  0, Control=0, Output=00000000
+Input=128, Control=4, Output=00001000
+Input=128, Control=2, Output=00100000
+Input=128, Control=1, Output=01000000
+Input=128, Control=7, Output=00000001
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 40
+CPU Time:      0.160 seconds;       Data structure size:   0.5Mb
+Tue Jun 17 11:24:31 2025

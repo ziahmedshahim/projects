@@ -1,0 +1,5 @@
+Command Line: /opt/synopsys/vc_formal/W-2024.09-SP2/verdi/platform/LINUXAMD64/bin/Novas -vpd dump.vpd
+uname(Linux Impare 5.14.0-503.33.1.el9_5.x86_64 #1 SMP PREEMPT_DYNAMIC Wed Mar 19 16:23:31 UTC 2025 x86_64)
+
+[ERROR] Could not checkout Verdi Elite (Verdi) license. Use verdi -licdebug for more information.
+au time 0.781271 1.100806 0.072336 delta 96989184 96989184 total 942944256 942944256
