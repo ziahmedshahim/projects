@@ -702,8 +702,8 @@ OVA_UUM=0
 LESSOPEN=||/usr/bin/lesspipe.sh %s
 LC_ALL=C
 HISTCONTROL=ignoredups
-GNOME_TERMINAL_SERVICE=:1.440
-GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/3b849d51_e5e8_4f59_954b_54a111ea9c4a
+GNOME_TERMINAL_SERVICE=:1.443
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/a6333c26_8749_47c2_af81_d0e1034980fd
 GNOME_KEYRING_CONTROL=/home/zia/.cache/keyring-KRDR62
 DBUS_STARTER_BUS_TYPE=session
 DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-zE70y0X0IG,guid=e794eb98698696f8de66e61e682acc45
@@ -891,5 +891,5 @@ BASH_FUNC_which%%=() {  ( alias;_ eval ${which_declare} ) | /usr/bin/which --tty
 1740889567 /opt/synopsys/vcs/W-2024.09-SP2/linux64/lib/liberrorinf.so
 1740889560 /opt/synopsys/vcs/W-2024.09-SP2/linux64/lib/libsnpsmalloc.so
 1740889556 /opt/synopsys/vcs/W-2024.09-SP2/linux64/lib/libvfs.so
-1750396281 simv.daidir
+1750407806 simv.daidir
 -1 partitionlib

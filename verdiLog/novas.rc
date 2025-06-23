@@ -205,9 +205,9 @@ version = Verdi_W-2024.09-SP2
 autoSaveSession = FALSE
 TclAutoSource = 
 cmd_enter_form = FALSE
+SyncBrowserDir = TRUE
 ColorTheme = classic
 prevColorTheme = classic
-SyncBrowserDir = TRUE
 [GlobalProp]
 ErrWindow_Font = Helvetica_M_R_12
 [Globals]

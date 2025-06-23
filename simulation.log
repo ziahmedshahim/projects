@@ -1,7 +1,7 @@
 Command: /home/zia/projects_rp/uart/./simv +verbose -l simulation.log
 Chronologic VCS simulator copyright 1991-2024
 Contains Synopsys proprietary information.
-Compiler version W-2024.09-SP2_Full64; Runtime version W-2024.09-SP2_Full64;  Jun 20 05:11 2025
+Compiler version W-2024.09-SP2_Full64; Runtime version W-2024.09-SP2_Full64;  Jun 20 08:23 2025
 UVM_INFO /opt/synopsys/vcs/W-2024.09-SP2/etc/uvm-1.2/base/uvm_root.svh(402) @ 0: reporter [UVM/RELNOTES] 
 ----------------------------------------------------------------
 UVM-1.2.Synopsys
@@ -32,5 +32,5 @@ $finish called from file "tb.sv", line 69.
 $finish at simulation time               222775
            V C S   S i m u l a t i o n   R e p o r t 
 Time: 222775
-CPU Time:      0.160 seconds;       Data structure size:   0.5Mb
-Fri Jun 20 05:11:21 2025
+CPU Time:      0.170 seconds;       Data structure size:   0.5Mb
+Fri Jun 20 08:23:26 2025
